@@ -1,0 +1,9 @@
+Vila Aconchego — app para GitHub Pages
+
+1. Crie um repositório público no GitHub (ex.: vila-aconchego).
+2. Envie TODOS os arquivos desta pasta para a raiz do repositório (Add file > Upload files).
+3. Em Settings > Pages, escolha "Deploy from a branch", branch main, pasta / (root) e salve.
+4. Em 1 ou 2 minutos o jogo fica em https://SEU-USUARIO.github.io/vila-aconchego/
+
+No celular: abra o link e toque em "Instalar app" (Android) ou Compartilhar > Adicionar à Tela de Início (iPhone).
+Depois de aberto uma vez, o jogo funciona sem internet.
